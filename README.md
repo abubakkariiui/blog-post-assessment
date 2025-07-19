@@ -11,7 +11,6 @@ A modern blog application built with Angular 19, PrimeNG, AG Grid, and Express.j
 - **Authentication**: Login/Register with JWT tokens
 - **Responsive Design**: Modern UI using PrimeNG components
 - **Route Guards**: Protected routes for authenticated users
-- **Dark Mode Support**: Theme switching with PrimeNG configurator
 
 ### Backend (Express.js + MongoDB)
 - **RESTful API**: Complete CRUD operations for blog posts
